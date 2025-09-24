@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: var(--font-family);
+    scroll-behavior: smooth;
+    background-color: var(--color-background);
+    color: var(--color-text);
+}
+
+:root {
+    --font-family: 'Inter', sans-serif;
+
+    /* Font Sizes */
+    --font-size-sm: 0.8rem;
+    --font-size-md: 1rem;
+    --font-size-lg: 1.5rem;
+    --font-size-xl: 2rem;
+
+    /* Spacing */
+    --spacing-xs: 4px;
+    --spacing-sm: 8px;
+    --spacing-md: 16px;
+    --spacing-lg: 24px;
+    --spacing-xl: 40px;
+
+    /* Colors */
+    --color-primary: #cc000a;
+    --color-secondary: #6c757d;
+    --color-text: #f8f9fa;
+    --color-background: #131313;
+
+    /* Other */
+    --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.326);
+    --border-radius: 8px;
+}
+
+.container {
+    max-width: 400px;
+    overflow: hidden;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    margin: 0 auto;
+}
+
+hr {
+    width: 90%;
+    border: none;
+    height: 1px;
+    margin: 40px 0;
+
+    background: linear-gradient(
+    to right, 
+    #131313, 
+    #cc000a,
+    #131313 
+  );
+    transform: scaleY(0.5);
+}

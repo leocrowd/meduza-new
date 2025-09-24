@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Mickey e amigos",
+    "description": "Feito de pêlo de frida",
+    "price": "R$ 20,00",
+    "image": "https://images.tcdn.com.br/img/img_prod/588709/sacola_algodao_ecobag_personalizada_19911759_1_53a9115739056a3ef731fb11a13c4523.jpg",
+    "category": "Ecobags",
+    "categoryImage": "https://images.tcdn.com.br/img/img_prod/1285849/ecobag_artesas_1653_2_821486d62d3d53f40e5ccbaf5287c867.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Gardênia",
+    "description": "Notas de perfume sei lá",
+    "price": "R$ 800,00",
+    "image": "https://cdn.awsli.com.br/1328/1328026/produto/186976403/summer_1-r5kuh0dxfy.jpg",
+    "category": "Velas",
+    "categoryImage": "https://cdn.awsli.com.br/1328/1328026/produto/186976403/summer_1-r5kuh0dxfy.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Garota de ipanema",
+    "description": "Mulher bonitona e pá",
+    "price": "R$ 500,00",
+    "image": "https://cdn-cpoco.nitrocdn.com/tULlXHbPhGEWZxjaPaXQirQiEfCfDEJV/assets/images/optimized/rev-8dbb47f/www.cnstatue.com/wp-content/uploads/2025/07/custom-life-size-marble-female-statue-for-sale.jpg",
+    "category": "Quadros/\nEsculturas",
+    "categoryImage": "https://www.artesintonia.com.br/cdn/shop/files/GL53-escultura-abstrata-madeira-amor-infinito-artesanal-arte-bali-casal-par-artesintonia-home-decor-1.jpg?v=1745987238"
+  },
+   {
+    "id": 4,
+    "title": "Mickey e amigos",
+    "description": "Feito de pêlo de frida",
+    "price": "R$ 20,00",
+    "image": "https://images.tcdn.com.br/img/img_prod/588709/sacola_algodao_ecobag_personalizada_19911759_1_53a9115739056a3ef731fb11a13c4523.jpg",
+    "category": "Ecobags",
+    "categoryImage": "https://images.tcdn.com.br/img/img_prod/1285849/ecobag_artesas_1653_2_821486d62d3d53f40e5ccbaf5287c867.jpg"
+  }
+]

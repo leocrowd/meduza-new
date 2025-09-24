@@ -1,0 +1,31 @@
+
+
+.socialLinks {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--spacing-md);
+
+}
+
+.socialLink {
+    background-color: rgb(8, 8, 8);
+    color: var(--color-background);
+
+    display: flex;
+    padding: var(--spacing-sm);
+    border-radius: var(--spacing-xs);
+
+    color: var(--color-primary);
+    box-shadow: var(--box-shadow);
+}
+
+.copy {
+    margin-block: 40px;
+    font-size: var(--font-size-md);
+}
+
+.copy a {
+    text-decoration: none;
+    color: #ed145b;
+}

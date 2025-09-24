@@ -6,7 +6,7 @@ export default function Header() {
       <div className={styles.containerImg}>
         <img
           className={styles.image}
-          src="./public/logo.png"
+          src="/logo.png"
           alt="logo Meduza Lab"
         />
       </div>
